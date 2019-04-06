@@ -1,0 +1,7 @@
+.DS_Store
+/vendor
+/.idea
+program.php
+program.js
+/solution
+exercises/*/solution/vendor
